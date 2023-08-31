@@ -1,0 +1,9 @@
+How to build aproach of zach:
+portifolio page{
+    -should filter with categories pre-difine
+    -masonry css solution (react-masonry-css)/(use latter masory-layout )
+    -lightbox solution (lightgallery)/(use latter fancybox)
+    -background images
+    - where do we store our images (For this video Unsplash.com API)
+    -in real word we use to awnser the question above we use postgres/prisma + aws s3 ****
+}
