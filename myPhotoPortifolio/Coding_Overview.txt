@@ -11,7 +11,11 @@ Game plan:
     - use npmtrends.com to see each type of solutions have been use more popular - this means that,
      the solutions are new technologies, so are best solted to be use
 3. Setup Next.js, Tailwind, TypeScrip ??
+when we set it up next.js with tailwind and TypeScrip it created a folder "app" with several standart files to help with the connections
+I have created a ssh link with my pc and github. now every time i create a new repositorie i can push folder throught line of commands
+given by github website
 4. Deploy to Vercel ???
+just get in to versel and connect with your github account and select each repositorie you want to import
 6. Build the layout
 7. Build a masonry grid ??
 8. Build the lightbox ??
